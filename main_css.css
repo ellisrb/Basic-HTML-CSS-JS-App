@@ -1,0 +1,133 @@
+﻿
+
+            body{
+                background-color:#39f;
+            }
+            h3 {
+                display:block;
+                text-align:center;
+                max-width:inherit;
+                background-color:#f2f2f2;
+                color: #39f;
+                background-color: #474747;
+                text-shadow: #39f 0 0 10px;
+            }
+            #info_buttons button{
+              color:white;
+               background:darkblue;
+                padding:5px;
+                margin: 5px;
+                text-align: center;
+                text-decoration:none;
+                display:inline-block;
+                position:relative;
+                position:center;
+                font-size:inherit;
+                width:100%;
+            }
+            #info_buttons button:hover{
+              background-color:#39f;
+              box-shadow: -2px white;
+            }
+
+           .footer {
+               padding-top:15px;
+               padding-left:15px;
+
+           }
+           .footer button {
+               color:white;
+                background:darkblue;
+                padding:5px;
+                margin: 5px;
+                text-align: center;
+                text-decoration:none;
+                display:inline-block;
+                position:relative;
+                position:center;
+                font-size:inherit;
+                width:100%;}
+
+            .footer button:hover{
+              background-color:#39f;
+              box-shadow: -2px white;
+            }
+
+           #GoBack button {
+               color:white;
+                background:darkblue;
+                padding:5px;
+                margin: 5px;
+                text-align: center;
+                text-decoration:none;
+                display:inline-block;
+                position:relative;
+                position:center;
+                font-size:inherit;
+                width:100%;
+           }
+           #GoBack button:hover{
+             background-color:#39f;
+             box-shadow: -2px white;
+           }
+
+           p {
+               font-size:26px;
+               overflow: auto;
+               color:#000;
+               width:100%;
+           }
+           #btnSearch {
+             color:white;
+              background:grey;
+               color: black;
+               margin-top:20px;		padding:5px;
+               float:center;
+               width:35%;
+           }
+           #btnSearch:hover{
+             background-color:lightGrey;
+             box-shadow: -2px white;
+           }
+           #btnSearch:after{
+             background-color:grey;
+             box-shadow:0;
+           }
+           #intro {
+               width:100%;
+               color:white;
+               font-size:20px;
+               text-align:center;
+           }
+           #contact li {
+               text-align:center;
+               color:white;
+               list-style:none;
+           }
+           #contact li p {
+             font-size:18px;
+             overflow: auto;
+             color:ghostwhite;
+             width:100%;
+           }
+           #checkButton {
+               color:white;
+                background:darkblue;
+                padding:5px;
+                margin: 5px;
+                text-align: center;
+                text-decoration:none;
+                display:inline-block;
+                position:relative;
+                position:center;
+                font-size:inherit;
+                width:100%;
+           }
+           #checkButton:hover{
+             background-color:#39f;
+             box-shadow: -2px white;
+           }
+
+
+           //////////
+           //
